@@ -47,6 +47,8 @@ Se ha desarrollado un prototipo interactivo de una máquina de Pinball en 3D imp
 * `src/texturas/`: Texturas aplicadas al tablero (`tablero.jpg`), la bola (`bola.jpg`), el marco (`marco.jpg`) y el fondo panorámico (`fondo.jpg`).
 * `package.json`: Dependencias del proyecto (`three`, `ammojs-typed`, `@tweenjs/tween.js`).
 
+Enlace al codesandbox: https://codesandbox.io/p/sandbox/semana-11-ig-xgfjqp
+
 ## Fuentes y recursos utilizados
 
 * **Bibliotecas:** [Three.js](https://threejs.org/), [Ammo.js](https://github.com/kripken/ammo.js/) y [Tween.js](https://github.com/tweenjs/tween.js/).
